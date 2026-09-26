@@ -1,5 +1,6 @@
+judge_simulator.py
+bot/test_groq.py
 .env
 .env.*
 __pycache__/
 *.pyc
-bot/test_groq.py
