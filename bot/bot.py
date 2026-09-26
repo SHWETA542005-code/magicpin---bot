@@ -60,7 +60,7 @@ async def metadata():
         "approach": "single-prompt composer over Groq, with per-category prompt templates",
         "contact_email": CONTACT_EMAIL,
         "version": VERSION,
-        "submitted_at": "CHANGE_ME",  # fill at submission time
+        "submitted_at": "2026-09-26T19:30:00+05:30",  # fill at submission time
     }
 
 
